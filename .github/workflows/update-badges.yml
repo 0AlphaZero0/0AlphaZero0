@@ -5,7 +5,7 @@ name: Update badges
 # Controls when the workflow will run
 on:
   schedule:
-    # Runs at 0am UTC every day
+    # Runs every 5min
     - cron: "*/5 * * * *"
 jobs:
   update-readme:
