@@ -12,6 +12,6 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
-          CREDLY_USER:arthur-thouvenin
+          CREDLY_USER:"arthur-thouvenin"
 #         with:
 #           GH_TOKEN: ${{ secrets.GH_TOKEN }}
