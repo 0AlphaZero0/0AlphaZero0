@@ -12,7 +12,6 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme0@main
-          CREDLY_USER:"arthur-thouvenin"
-          COMMIT_MESSAGE:"Update badges"
+          CREDLY_USER:${{ secrets.CREDLY_USER }}
 #         with:
 #           GH_TOKEN: ${{ secrets.GH_TOKEN }}
