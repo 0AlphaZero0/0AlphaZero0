@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme0@main
+        uses: pemtajo/badge-readme@main
           CREDLY_USER:arthur-thouvenin
 #         with:
 #           GH_TOKEN: ${{ secrets.GH_TOKEN }}
