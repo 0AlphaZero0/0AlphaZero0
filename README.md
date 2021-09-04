@@ -30,6 +30,11 @@
     <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0AlphaZero0&layout=compact&theme=midnight-purple">
 </p>
 
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+
 <h3> May the Force be with you !</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/GExBk9r9lP9LN5j2H5/giphy.gif">
