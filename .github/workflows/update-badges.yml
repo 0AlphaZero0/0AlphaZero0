@@ -13,6 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: 0AlphaZero0/0AlphaZero0@main
+        uses: 0AlphaZero0/badge-readme0@main
           CREDLY_USER:"arthur-thouvenin"
           COMMIT_MESSAGE:"Update badges"
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
