@@ -14,5 +14,5 @@ jobs:
         uses: pemtajo/badge-readme0@main
           CREDLY_USER:"arthur-thouvenin"
           COMMIT_MESSAGE:"Update badges"
-        with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+#         with:
+#           GH_TOKEN: ${{ secrets.GH_TOKEN }}
