@@ -16,10 +16,10 @@
 <h3> <img src="https://media.giphy.com/media/W7EAM6hdYrw7E3NBgE/giphy.gif" width="30"> If you want to know more about me, you are on the spot!</h3>
 
 
-- 🔭 I’m currently working on personal projects involving photos of second hand items and AI processing
-- 🌱 I’m currently learning AI, Data Science and much more
+- 🔭 I’m currently working for Aquila Data Enabler as a Data Scientist
+- 🌱 I’m implementing and learning AI, Data Science, and much more
 - 🔒 Ardent supporter of Open Source, Open Sciences, Open Data
-- 💬 Ask me about Persistent Identifiers (ROR IDs), Biomedical Litterature, NLP
+- 💬 Ask me about NLP, Persistent Identifiers (ROR IDs), Biomedical literature, and especially providing solutions to infrastructure limitations
 - 📫 How to reach me: athouvenin [at] outlook.com
 - 😄 Pronouns: He/Him
 
